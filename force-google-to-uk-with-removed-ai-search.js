@@ -4,10 +4,10 @@
 // @version      1.0
 // @license      MIT
 // @namespace    https://github.com/darthvader666uk
-// @homepageURL https://github.com/darthvader666uk/force-google-to-uk-with-removed-ai-search
-// @supportURL  https://github.com/darthvader666uk/force-google-to-uk-with-removed-ai-search/issues
-// @downloadURL https://raw.githubusercontent.com/darthvader666uk/cinema-times/master/tampermonkey_js/blackwood.js
-// @updateURL   https://raw.githubusercontent.com/darthvader666uk/cinema-times/master/tampermonkey_js/blackwood.js
+// @homepageURL  https://github.com/darthvader666uk/force-google-to-uk-with-removed-ai-search
+// @supportURL   https://github.com/darthvader666uk/force-google-to-uk-with-removed-ai-search/issues
+// @downloadURL  https://raw.githubusercontent.com/darthvader666uk/force-google-to-uk-with-removed-ai-search/main/force-google-to-uk-with-removed-ai-search.js
+// @updateURL    https://raw.githubusercontent.com/darthvader666uk/force-google-to-uk-with-removed-ai-search/main/force-google-to-uk-with-removed-ai-search.js
 // @description  Automatically appends QSP &gl=gb (  , '&cr=countryUK|countryGB': '', '&tbs=ctr:countryUK|countryGB,qdr:y': '') to Force to google but kill AI with &udm=14
 // @author       darthvader666uk
 // @match        https://www.google.co.uk/*
